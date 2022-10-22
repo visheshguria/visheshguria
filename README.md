@@ -39,6 +39,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=visheshguria&show_icons=true&locale=en" alt="visheshguria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=visheshguria&" alt="visheshguria" /></p>
+<br/>
+
+<a href="https://github.com/visheshguria/github-readme-activity-graph"><img alt="Vishesh Guria's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=visheshguria&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 

@@ -39,7 +39,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=visheshguria&show_icons=true&locale=en" alt="visheshguria" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=visheshguria&" alt="visheshguria" /></p> -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshguria&hide_border=true&background=0000&&currStreakLabel=ba68c8&ring=ba68c8&fire=ba68c8&stroke=ba68c8&border=ba68c8" alt="visheshguria" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshguria" alt="visheshguria" /></p>
 <br/>
 
 <a href="https://github.com/visheshguria/github-readme-activity-graph"><img alt="Vishesh Guria's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=visheshguria&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Advance JAVA**
 
-- 🌱 I’m currently learning **Application of DATA Structures Using JAVA.**
+- 🌱 I’m currently learning **Application of DSA Using JAVA.**
 
 - 👯 Worked as Team Leader on Collaborative Lumen5 Clone Project. [Lumen5 Clone](https://visionary-gumdrop-304cda.netlify.app/)
 
